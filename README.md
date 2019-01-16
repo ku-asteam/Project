@@ -1,6 +1,6 @@
 # *a*STEAM Project
 App-Specialized Transport for Evolvability, Autonomicity, and Measurability
-## Introduction to aSTEAM Project
+## Introduction to *a*STEAM Project
 *a*STEAM Project (pronounced like “Ace Team”) develops a transport networking technology for app-specialized Web experience. *a*STEAM Project consists of three projects designed for **_evolvability_**, **_measurability_**, and **_autonomicity_**, respectively. The first project implements a continuously evolvable autonomous transmission networking control framework that be easily deployed to the current networks. In the second project, a device profiling system collects application characteristics, quantified user experience, and device profiles from endpoints. Along with the two expected deliverables, the third project investigates analytics techniques to improve Web experience through the autonomous development of transport protocols based on data-driven networking analytics. Ultimately, the projects are converged onto the evolvable, measurable and autonomous transport networking technology that autonomously identifies problems for better Web experience through networking analytics.
 
 For more information on *a*STEAM Project, see the [project website](https://asteam.korea.ac.kr/).
