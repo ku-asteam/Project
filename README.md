@@ -22,3 +22,9 @@ Chromium Module for Highly Flexible Profiling System.
 Android Kernel Module for Highly Flexible Profiling System.
 
 ## Group 3: Autonomous Networking Analytics for Better Web Experiences
+### [predict-qoe](https://github.com/ku-asteam/predict-qoe/)
+Deeplearning-based QoE Prediction Model.
+### [detect-phiurl](https://github.com/ku-asteam/detect-phiurl/)
+Phishing URL Detection Based on Strings.
+### [webscoring](https://github.com/ku-asteam/webscoring/)
+PRank Score based on the Matrix Form.
