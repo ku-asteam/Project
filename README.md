@@ -12,5 +12,9 @@ For more information on *a*STEAM Project, see the [project website](https://aste
 QUIC Datapath Control Module for Chromium.
 
 ## Group 2: Highly Flexible Device Profiling and Analysis System for Measuring Web Experiences
+### [hfps-chromium](https://github.com/ku-asteam/hfps-chromium/)
+Chromium Module for Highly Flexible Profiling System.
+### [hfps-android-kernel](https://github.com/ku-asteam/hfps-android-kernel/)
+Android Kernel Module for Highly Flexible Profiling System.
 
 ## Group 3: Autonomous Networking Analytics for Better Web Experiences
