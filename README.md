@@ -8,10 +8,8 @@ For more information on *a*STEAM Project, see the [project website](https://aste
 > *a*STEAM Project is supported by [Next-Generation Information Computing Development Program](http://www.nrf.re.kr/eng/cms/page/main?menu_no=201) through the [National Research Foundation of Korea (NRF)](http://www.nrf.re.kr/) funded by the [Ministry of Science and ICT](https://www.msit.go.kr/).
 
 ## Group 1: Seamless Autonomous Transport Networking Framework for Web Applications
-### [Test Repository](https://google.com)
-This repository is just a test.   
-### [Test Repository2](https://google.com)
-This repository is another test
+### [ccp-chromium](https://github.com/ku-asteam/ccp-chromium/)
+QUIC Datapath Control Module for Chromium.
 
 ## Group 2: Highly Flexible Device Profiling and Analysis System for Measuring Web Experiences
 
