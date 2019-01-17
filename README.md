@@ -12,7 +12,7 @@ For more information on *a*STEAM Project, see the [project website](https://aste
 QUIC Datapath Control Module for Chromium.
 ### [BBR-AC](https://github.com/ku-asteam/BBR-AC/)
 BBR with Actual Congestion.
-### [DMM-LIA](https://github.com/ku-asteam/DMM-LIA/)
+### [mdm-lia](https://github.com/ku-asteam/mdm-lia/)
 Modified Decrease Mechanism of LIA algorithm.
 
 ## Group 2: Highly Flexible Device Profiling and Analysis System for Measuring Web Experiences
