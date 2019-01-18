@@ -8,13 +8,13 @@ For more information on *a*STEAM Project, see the [project website](https://aste
 > *a*STEAM Project is supported by [Next-Generation Information Computing Development Program](http://www.nrf.re.kr/eng/cms/page/main?menu_no=201) through the [National Research Foundation of Korea (NRF)](http://www.nrf.re.kr/) funded by the [Ministry of Science and ICT](https://www.msit.go.kr/).
 
 ## Group 1: Seamless Autonomous Transport Networking Framework for Web Applications
-### [ccp-chromium](https://github.com/ku-asteam/ccp-chromium/)
+### [CCP-Chromium](https://github.com/ku-asteam/ccp-chromium/)
 QUIC Datapath Control Module for Chromium.
 ### [csi-qoe](https://github.com/ku-asteam/csi-qoe/)
 TBA.
-### [bbr-ac](https://github.com/ku-asteam/bbr-ac/)
+### [BBR-AC](https://github.com/ku-asteam/bbr-ac/)
 BBR with Actual Congestion.
-### [mdm-lia](https://github.com/ku-asteam/mdm-lia/)
+### [MDM-LIA](https://github.com/ku-asteam/mdm-lia/)
 Modified Decrease Mechanism of LIA algorithm.
 ### [miu_memory_integrity_utilities](https://github.com/ku-asteam/miu_memory_integrity_utilities/)
 FRAMER: Software-based Capability Model.
