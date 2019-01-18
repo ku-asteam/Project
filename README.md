@@ -10,18 +10,18 @@ For more information on *a*STEAM Project, see the [project website](https://aste
 ## Group 1: Seamless Autonomous Transport Networking Framework for Web Applications
 ### [CCP-Chromium](https://github.com/ku-asteam/ccp-chromium/)
 QUIC Datapath Control Module for Chromium.
-### [csi-qoe](https://github.com/ku-asteam/csi-qoe/)
-TBA.
+### [CSI-QoE](https://github.com/ku-asteam/csi-qoe/)
+A Tool for Measuring the Effect of Wireless Channel State on Web QoE.
 ### [BBR-AC](https://github.com/ku-asteam/bbr-ac/)
 BBR with Actual Congestion.
 ### [MDM-LIA](https://github.com/ku-asteam/mdm-lia/)
 Modified Decrease Mechanism of LIA algorithm.
-### [miu_memory_integrity_utilities](https://github.com/ku-asteam/miu_memory_integrity_utilities/)
+### [FRAMER](https://github.com/ku-asteam/miu_memory_integrity_utilities/)
 FRAMER: Software-based Capability Model.
-### [new1](https://github.com/ku-asteam/new1/)
-TBA.
-### [new2](https://github.com/ku-asteam/new2/)
-TBA.
+### [Data Preprocessor](https://github.com/ku-asteam/proxy-prefetching/dp/)
+Data Preprocessor for Web Prefetching.
+### [Prediction Model](https://github.com/ku-asteam/proxy-prefetching/pm/)
+Prediction Model for Web Prefetching.
 
 ## Group 2: Highly Flexible Device Profiling and Analysis System for Measuring Web Experiences
 ### [hfps-chromium](https://github.com/ku-asteam/hfps-chromium/)
@@ -30,11 +30,11 @@ Chromium Module for Highly Flexible Profiling System.
 Android Kernel Module for Highly Flexible Profiling System.
 
 ## Group 3: Autonomous Networking Analytics for Better Web Experiences
-### [predict-qoe](https://github.com/ku-asteam/predict-qoe/)
+### [Predict-QoE](https://github.com/ku-asteam/predict-qoe/)
 Deeplearning-based QoE Prediction Model.
-### [detect-phiurl](https://github.com/ku-asteam/detect-phiurl/)
+### [Detect-Phiurl](https://github.com/ku-asteam/detect-phiurl/)
 Phishing URL Detection Based on Strings.
-### [webscoring](https://github.com/ku-asteam/webscoring/)
+### [WebsScoring](https://github.com/ku-asteam/webscoring/)
 PRank Score based on the Matrix Form.
 ### [KU-S&S-EM](https://github.com/ku-asteam/KU-S&S-EM/)
 Status and Spec Export Module for Transport layer protocol.
