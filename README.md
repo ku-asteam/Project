@@ -10,10 +10,18 @@ For more information on *a*STEAM Project, see the [project website](https://aste
 ## Group 1: Seamless Autonomous Transport Networking Framework for Web Applications
 ### [ccp-chromium](https://github.com/ku-asteam/ccp-chromium/)
 QUIC Datapath Control Module for Chromium.
+### [csi-qoe](https://github.com/ku-asteam/csi-qoe/)
+TBA.
 ### [BBR-AC](https://github.com/ku-asteam/BBR-AC/)
 BBR with Actual Congestion.
 ### [mdm-lia](https://github.com/ku-asteam/mdm-lia/)
 Modified Decrease Mechanism of LIA algorithm.
+### [miu_memory_integrity_utilities](https://github.com/ku-asteam/miu_memory_integrity_utilities/)
+FRAMER: Software-based Capability Model.
+### [new1](https://github.com/ku-asteam/new1/)
+TBA.
+### [new2](https://github.com/ku-asteam/new2/)
+TBA.
 
 ## Group 2: Highly Flexible Device Profiling and Analysis System for Measuring Web Experiences
 ### [hfps-chromium](https://github.com/ku-asteam/hfps-chromium/)
@@ -28,3 +36,7 @@ Deeplearning-based QoE Prediction Model.
 Phishing URL Detection Based on Strings.
 ### [webscoring](https://github.com/ku-asteam/webscoring/)
 PRank Score based on the Matrix Form.
+### [KU-S&S-EM](https://github.com/ku-asteam/KU-S&S-EM/)
+Status and Spec Export Module for Transport layer protocol.
+### [KU-S&S-IM](https://github.com/ku-asteam/KU-S&S-IM/)
+Status and Spec Inference Module for Transport layer protocol.
