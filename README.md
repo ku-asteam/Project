@@ -12,7 +12,7 @@ For more information on *a*STEAM Project, see the [project website](https://aste
 QUIC Datapath Control Module for Chromium.
 ### [csi-qoe](https://github.com/ku-asteam/csi-qoe/)
 TBA.
-### [BBR-AC](https://github.com/ku-asteam/BBR-AC/)
+### [bbr-ac](https://github.com/ku-asteam/bbr-ac/)
 BBR with Actual Congestion.
 ### [mdm-lia](https://github.com/ku-asteam/mdm-lia/)
 Modified Decrease Mechanism of LIA algorithm.
