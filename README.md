@@ -18,9 +18,9 @@ BBR with Actual Congestion.
 Modified Decrease Mechanism of LIA algorithm.
 ### [FRAMER](https://github.com/ku-asteam/miu_memory_integrity_utilities/)
 FRAMER: Software-based Capability Model.
-### [PP-Data-Preprocessor](https://github.com/ku-asteam/proxy-prefetching/dp/)
+### [WP-Data-Preprocessor](https://github.com/ku-asteam/web-prediction/tree/master/preprocessor)
 Data Preprocessor for Web Prefetching.
-### [PP-Prediction-Model](https://github.com/ku-asteam/proxy-prefetching/pm/)
+### [WP-Prediction-Model](https://github.com/ku-asteam/web-prediction/tree/master/encoder)
 Prediction Model for Web Prefetching.
 
 ## Group 2: Highly Flexible Device Profiling and Analysis System for Measuring Web Experiences
