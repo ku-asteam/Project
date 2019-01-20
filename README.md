@@ -34,7 +34,7 @@ Android Kernel Module for Highly Flexible Profiling System.
 Deeplearning-based QoE Prediction Model.
 ### [Detect-Phiurl](https://github.com/ku-asteam/detect-phiurl/)
 Phishing URL Detection Based on Strings.
-### [WebsScoring](https://github.com/ku-asteam/webscoring/)
+### [WebScoring](https://github.com/ku-asteam/webscoring/)
 PRank Score based on the Matrix Form.
 ### [KU-S&S-EM](https://github.com/ku-asteam/KU-S&S-EM/)
 Status and Spec Export Module for Transport layer protocol.
