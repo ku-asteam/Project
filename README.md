@@ -36,7 +36,7 @@ Deeplearning-based QoE Prediction Model.
 Phishing URL Detection Based on Strings.
 ### [WebScoring](https://github.com/ku-asteam/webscoring/)
 PRank Score based on the Matrix Form.
-### [KU-S&S-EM](https://github.com/ku-asteam/KU-S&S-EM/)
+### [KU-S&S-EM](https://github.com/ku-asteam/KU-S-S-EM/)
 Status and Spec Export Module for Transport layer protocol.
-### [KU-S&S-IM](https://github.com/ku-asteam/KU-S&S-IM/)
+### [KU-S&S-IM](https://github.com/ku-asteam/KU-S-S-IM/)
 Status and Spec Inference Module for Transport layer protocol.
