@@ -37,6 +37,6 @@ Phishing URL Detection Based on Strings.
 ### [WebScoring](https://github.com/ku-asteam/webscoring/)
 PRank Score based on the Matrix Form.
 ### [KU-S&S-EM](https://github.com/ku-asteam/KU-S-S-EM/)
-Status and Spec Export Module for Transport layer protocol.
+Status and Spec Export Module for Transport Layer Protocol.
 ### [KU-S&S-IM](https://github.com/ku-asteam/KU-S-S-IM/)
-Status and Spec Inference Module for Transport layer protocol.
+Status and Spec Inference Module for Transport Layer Protocol.
