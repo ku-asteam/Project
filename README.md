@@ -13,32 +13,45 @@ For more information on *a*STEAM Project, see the [project website](https://aste
 QUIC Datapath Control Module for Chromium.
 #### [CSI-QoE](https://github.com/ku-asteam/csi-qoe/)
 A Tool for Measuring the Effect of Wireless Channel State on Web QoE.
+#### [WebProfiler](https://github.com/ku-asteam/WebProfiler/)
+Navigation Prediction Model for General Web Applications.
 
-### [BBR-AC](https://github.com/ku-asteam/bbr-ac/)
+### [Scalable Control Team]
+#### [BBR-AC](https://github.com/ku-asteam/bbr-ac/)
 BBR with Actual Congestion.
-### [MDM-LIA](https://github.com/ku-asteam/mdm-lia/)
+#### [MDM-LIA](https://github.com/ku-asteam/mdm-lia/)
 Modified Decrease Mechanism of LIA algorithm.
-### [FRAMER](https://github.com/ku-asteam/miu_memory_integrity_utilities/)
+
+### [Software Stabilization Team]
+#### [FRAMER](https://github.com/ku-asteam/miu_memory_integrity_utilities/)
 FRAMER: Software-based Capability Model.
-### [WP-Data-Preprocessor](https://github.com/ku-asteam/web-prediction/tree/master/preprocessor)
+
+### [Autonomous Transport System Optimization Team]
+#### [WP-Data-Preprocessor](https://github.com/ku-asteam/web-prediction/tree/master/preprocessor)
 Data Preprocessor for Web Prefetching.
-### [WP-Prediction-Model](https://github.com/ku-asteam/web-prediction/tree/master/encoder)
+#### [WP-Prediction-Model](https://github.com/ku-asteam/web-prediction/tree/master/encoder)
 Prediction Model for Web Prefetching.
 
+
 ## Group 2: Highly Flexible Device Profiling and Analysis System for Measuring Web Experiences
-### [HFPS-Chromium](https://github.com/ku-asteam/hfps-chromium/)
-Chromium Module for Highly Flexible Profiling System.
-### [HFPS-Android-Kernel](https://github.com/ku-asteam/hfps-android-kernel/)
+### [Profiling Team]
+#### [HFPS-Android-Kernel](https://github.com/ku-asteam/hfps-android-kernel/)
 Android Kernel Module for Highly Flexible Profiling System.
+#### [HFPS-Chromium](https://github.com/ku-asteam/hfps-chromium/)
+Chromium Module for Highly Flexible Profiling System.
+
 
 ## Group 3: Autonomous Networking Analytics for Better Web Experiences
-### [Predict-QoE](https://github.com/ku-asteam/predict-qoe/)
-Deeplearning-based QoE Prediction Model.
-### [Detect-Phiurl](https://github.com/ku-asteam/detect-phiurl/)
+### [Analytics Team]
+#### [Detect-Phiurl](https://github.com/ku-asteam/detect-phiurl/)
 Phishing URL Detection Based on Strings.
-### [WebScoring](https://github.com/ku-asteam/webscoring/)
+#### [Predict-QoE](https://github.com/ku-asteam/predict-qoe/)
+Deeplearning-based QoE Prediction Model.
+#### [WebScoring](https://github.com/ku-asteam/webscoring/)
 PRank Score based on the Matrix Form.
-### [KU-S&S-EM](https://github.com/ku-asteam/KU-S-S-EM/)
+
+### [Protocol Optimization Team]
+#### [KU-S&S-EM](https://github.com/ku-asteam/KU-S-S-EM/)
 Status and Spec Export Module for Transport Layer Protocol.
-### [KU-S&S-IM](https://github.com/ku-asteam/KU-S-S-IM/)
+#### [KU-S&S-IM](https://github.com/ku-asteam/KU-S-S-IM/)
 Status and Spec Inference Module for Transport Layer Protocol.
