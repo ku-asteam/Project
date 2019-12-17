@@ -11,9 +11,9 @@ For more information on *a*STEAM Project, see the [project website](https://aste
 ### [Autonomous Transport Networking Team]
 #### [CCP-Chromium](https://github.com/ku-asteam/ccp-chromium/)
 QUIC Datapath Control Module for Chromium.
-#### [csi-qoe](https://github.com/ku-asteam/csi-qoe/)
+#### [CSI-QoE](https://github.com/ku-asteam/csi-qoe/)
 A Tool for Measuring the Effect of Wireless Channel State on Web QoE.
-#### [quic-stream-scheduling](https://github.com/ku-asteam/quic-stream-scheduling)
+#### [QUIC-Stream-Scheduling](https://github.com/ku-asteam/quic-stream-scheduling)
 QUIC Stream Scheduling Module for quiche
 #### [WEBap-pp](https://github.com/ku-asteam/webap-pp)
 Packet processing module in wired-cum-wireless environments
@@ -23,7 +23,7 @@ Navigation Prediction Model for General Web Applications.
 ### [Scalable Control Team]
 #### [BBR-AC](https://github.com/ku-asteam/bbr-ac/)
 BBR with Actual Congestion.
-#### [da-bbr](https://github.com/ku-asteam/da-bbr)
+#### [DA-BBR](https://github.com/ku-asteam/da-bbr)
 Delay-Aware BBR Congestion Control Algorithm
 #### [MDM-LIA](https://github.com/ku-asteam/mdm-lia/)
 Modified Decrease Mechanism of LIA algorithm.
