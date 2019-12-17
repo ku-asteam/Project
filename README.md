@@ -23,10 +23,10 @@ Navigation Prediction Model for General Web Applications.
 ### [Scalable Control Team]
 #### [BBR-AC](https://github.com/ku-asteam/bbr-ac/)
 BBR with Actual Congestion.
-#### [MDM-LIA](https://github.com/ku-asteam/mdm-lia/)
-Modified Decrease Mechanism of LIA algorithm.
 #### [da-bbr](https://github.com/ku-asteam/da-bbr)
 Delay-Aware BBR Congestion Control Algorithm
+#### [MDM-LIA](https://github.com/ku-asteam/mdm-lia/)
+Modified Decrease Mechanism of LIA algorithm.
 #### [TCPGuiTester](https://github.com/ku-asteam/TCPGuiTester)
 Application for logging the throughput, RTT, cwnd in real time
 
@@ -35,14 +35,14 @@ Application for logging the throughput, RTT, cwnd in real time
 FRAMER: Software-based Capability Model.
 
 ### [Autonomous Transport System Optimization Team]
+#### [web-prediction/dynalloc-module](https://github.com/ku-asteam/web-prediction/tree/master/dynalloc-module)
+A dynamic allocation module including a real-time traffic burst detector and a dynamic allocation mechanism.
+#### [web-prediction/lr-LSTM](https://github.com/ku-asteam/web-prediction/tree/master/Ir-LSTM)
+An intentionality-related long short-term memory (Ir-LSTM) model as a prediction method.
 #### [WP-Data-Preprocessor](https://github.com/ku-asteam/web-prediction/tree/master/preprocessor)
 Data Preprocessor for Web Prefetching.
 #### [WP-Prediction-Model](https://github.com/ku-asteam/web-prediction/tree/master/encoder)
 Prediction Model for Web Prefetching.
-#### [web-prediction/lr-LSTM](https://github.com/ku-asteam/web-prediction/tree/master/Ir-LSTM)
-An intentionality-related long short-term memory (Ir-LSTM) model as a prediction method.
-#### [web-prediction/dynalloc-module](https://github.com/ku-asteam/web-prediction/tree/master/dynalloc-module)
-A dynamic allocation module including a real-time traffic burst detector and a dynamic allocation mechanism.
 
 ## Group 2: Highly Flexible Device Profiling and Analysis System for Measuring Web Experiences
 ### [Profiling Team]
@@ -59,14 +59,14 @@ A RESTful API server for web Quality-of-Experience measuring tools
 ### [Analytics Team]
 #### [Detect-Phiurl](https://github.com/ku-asteam/detect-phiurl/)
 Phishing URL Detection Based on Strings.
-#### [Predict-QoE](https://github.com/ku-asteam/predict-qoe/)
-Deeplearning-based QoE Prediction Model.
-#### [WebScoring](https://github.com/ku-asteam/webscoring/)
-PRank Score based on the Matrix Form.
 #### [gen-mobility](https://github.com/ku-asteam/gen-mobility)
 Cluster-based mobile user mobility data generate model.
 #### [iden-edge](https://github.com/ku-asteam/iden-edge)
 Identifier intra/inter edges in community structure.
+#### [Predict-QoE](https://github.com/ku-asteam/predict-qoe/)
+Deeplearning-based QoE Prediction Model.
+#### [WebScoring](https://github.com/ku-asteam/webscoring/)
+PRank Score based on the Matrix Form.
 
 ### [Protocol Optimization Team]
 #### [KU-S&S-EM](https://github.com/ku-asteam/KU-S-S-EM/)
