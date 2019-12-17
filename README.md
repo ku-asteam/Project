@@ -20,6 +20,16 @@ Packet processing module in wired-cum-wireless environments
 #### [WebProfiler](https://github.com/ku-asteam/WebProfiler/)
 Navigation Prediction Model for General Web Applications.
 
+### [Autonomous Transport System Optimization Team]
+#### [WP-Data-Preprocessor](https://github.com/ku-asteam/web-prediction/tree/master/preprocessor)
+Data Preprocessor for Web Prefetching.
+#### [WP-Dynalloc-Module](https://github.com/ku-asteam/web-prediction/tree/master/dynalloc-module)
+A dynamic allocation module including a real-time traffic burst detector and a dynamic allocation mechanism.
+#### [WP-Ir-LSTM](https://github.com/ku-asteam/web-prediction/tree/master/Ir-LSTM)
+An intentionality-related long short-term memory (Ir-LSTM) model as a prediction method.
+#### [WP-Prediction-Model](https://github.com/ku-asteam/web-prediction/tree/master/encoder)
+Prediction Model for Web Prefetching.
+
 ### [Scalable Control Team]
 #### [BBR-AC](https://github.com/ku-asteam/bbr-ac/)
 BBR with Actual Congestion.
@@ -37,16 +47,6 @@ FRAMER: Software-based Capability Model.
 FRAMER: Software-based Capability Model.
 #### [NEW]()
 TBA.
-
-### [Autonomous Transport System Optimization Team]
-#### [WP-Data-Preprocessor](https://github.com/ku-asteam/web-prediction/tree/master/preprocessor)
-Data Preprocessor for Web Prefetching.
-#### [WP-Dynalloc-Module](https://github.com/ku-asteam/web-prediction/tree/master/dynalloc-module)
-A dynamic allocation module including a real-time traffic burst detector and a dynamic allocation mechanism.
-#### [WP-Ir-LSTM](https://github.com/ku-asteam/web-prediction/tree/master/Ir-LSTM)
-An intentionality-related long short-term memory (Ir-LSTM) model as a prediction method.
-#### [WP-Prediction-Model](https://github.com/ku-asteam/web-prediction/tree/master/encoder)
-Prediction Model for Web Prefetching.
 
 ## Group 2: Highly Flexible Device Profiling and Analysis System for Measuring Web Experiences
 ### [Profiling Team]
