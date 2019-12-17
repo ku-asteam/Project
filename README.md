@@ -35,12 +35,12 @@ Application for logging the throughput, RTT, cwnd in real time
 FRAMER: Software-based Capability Model.
 
 ### [Autonomous Transport System Optimization Team]
-#### [Web-prediction/dynalloc-module](https://github.com/ku-asteam/web-prediction/tree/master/dynalloc-module)
-A dynamic allocation module including a real-time traffic burst detector and a dynamic allocation mechanism.
-#### [web-prediction/lr-LSTM](https://github.com/ku-asteam/web-prediction/tree/master/Ir-LSTM)
-An intentionality-related long short-term memory (Ir-LSTM) model as a prediction method.
 #### [WP-Data-Preprocessor](https://github.com/ku-asteam/web-prediction/tree/master/preprocessor)
 Data Preprocessor for Web Prefetching.
+#### [WP-Dynalloc-Module](https://github.com/ku-asteam/web-prediction/tree/master/dynalloc-module)
+A dynamic allocation module including a real-time traffic burst detector and a dynamic allocation mechanism.
+#### [WP-Ir-LSTM](https://github.com/ku-asteam/web-prediction/tree/master/Ir-LSTM)
+An intentionality-related long short-term memory (Ir-LSTM) model as a prediction method.
 #### [WP-Prediction-Model](https://github.com/ku-asteam/web-prediction/tree/master/encoder)
 Prediction Model for Web Prefetching.
 
