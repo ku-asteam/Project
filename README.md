@@ -13,12 +13,12 @@ For more information on *a*STEAM Project, see the [project website](https://aste
 QUIC Datapath Control Module for Chromium.
 #### [csi-qoe](https://github.com/ku-asteam/csi-qoe/)
 A Tool for Measuring the Effect of Wireless Channel State on Web QoE.
-#### [WebProfiler](https://github.com/ku-asteam/WebProfiler/)
-Navigation Prediction Model for General Web Applications.
-#### [webap-pp](https://github.com/ku-asteam/webap-pp)
-Packet processing module in wired-cum-wireless environments
 #### [quic-stream-scheduling](https://github.com/ku-asteam/quic-stream-scheduling)
 QUIC Stream Scheduling Module for quiche
+#### [WEBap-pp](https://github.com/ku-asteam/webap-pp)
+Packet processing module in wired-cum-wireless environments
+#### [WebProfiler](https://github.com/ku-asteam/WebProfiler/)
+Navigation Prediction Model for General Web Applications.
 
 ### [Scalable Control Team]
 #### [BBR-AC](https://github.com/ku-asteam/bbr-ac/)
