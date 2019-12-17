@@ -31,8 +31,12 @@ Modified Decrease Mechanism of LIA algorithm.
 Application for logging the throughput, RTT, cwnd in real time
 
 ### [Software Stabilization Team]
-#### [FRAMER](https://github.com/ku-asteam/miu_memory_integrity_utilities/)
+#### [FRAMERv1](https://github.com/ku-asteam/miu_memory_integrity_utilities/)
 FRAMER: Software-based Capability Model.
+#### [FRAMERv2](https://github.com/ku-asteam/miu_memory_integrity_utilities/)
+FRAMER: Software-based Capability Model.
+#### [NEW]()
+TBA.
 
 ### [Autonomous Transport System Optimization Team]
 #### [WP-Data-Preprocessor](https://github.com/ku-asteam/web-prediction/tree/master/preprocessor)
