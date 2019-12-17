@@ -63,7 +63,7 @@ A RESTful API server for web Quality-of-Experience measuring tools
 ### [Analytics Team]
 #### [Detect-Phiurl](https://github.com/ku-asteam/detect-phiurl/)
 Phishing URL Detection Based on Strings.
-#### [gen-mobility](https://github.com/ku-asteam/gen-mobility)
+#### [Gen-mobility](https://github.com/ku-asteam/gen-mobility)
 Cluster-based mobile user mobility data generate model.
 #### [iden-edge](https://github.com/ku-asteam/iden-edge)
 Identifier intra/inter edges in community structure.
@@ -73,9 +73,13 @@ Deeplearning-based QoE Prediction Model.
 PRank Score based on the Matrix Form.
 
 ### [Protocol Optimization Team]
-#### [KU-S&S-EM](https://github.com/ku-asteam/KU-S-S-EM/)
+#### [KU-S&S-EMv1](https://github.com/ku-asteam/KU-S-S-EM/)
 Status and Spec Export Module for Transport Layer Protocol.
-#### [KU-S&S-IM](https://github.com/ku-asteam/KU-S-S-IM/)
+#### [KU-S&S-EMv2](https://github.com/ku-asteam/KU-S-S-EM/)
+Status and Spec Export Module for Transport Layer Protocol.
+#### [KU-S&S-IMv1](https://github.com/ku-asteam/KU-S-S-IM/)
+Status and Spec Inference Module for Transport Layer Protocol.
+#### [KU-S&S-IMv2](https://github.com/ku-asteam/KU-S-S-IM/)
 Status and Spec Inference Module for Transport Layer Protocol.
 #### [Protocol-Inference-in-SDN-Environment](https://github.com/ku-asteam/Protocol-Inference-in-SDN-Environment)
 An architecture of protocol Inference in SDN environment.
