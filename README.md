@@ -82,6 +82,6 @@ Improved Network Protocol Reverse Engineering.
 #### [KU-S&S-IMv1](https://github.com/ku-asteam/KU-S-S-IM/tree/master/1st%20year)
 Status and Spec Inference Module for Transport Layer Protocol.
 #### [KU-S&S-IMv2](https://github.com/ku-asteam/KU-S-S-IM/tree/master/2nd%20year)
-Status and Spec Inference Module for Transport Layer Protocol.
+Improved Network Protocol State Inference.
 #### [Protocol-Inference-in-SDN-Environment](https://github.com/ku-asteam/Protocol-Inference-in-SDN-Environment)
 An architecture of protocol Inference in SDN environment.
