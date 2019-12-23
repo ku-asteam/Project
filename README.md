@@ -41,10 +41,10 @@ Modified Decrease Mechanism of LIA algorithm.
 Application for logging the throughput, RTT, cwnd in real time
 
 ### [Software Stabilization Team]
-#### [FRAMERv1](https://github.com/ku-asteam/miu_memory_integrity_utilities/)
+#### [FRAMER](https://github.com/ku-asteam/miu_memory_integrity_utilities/)
 FRAMER: Software-based Capability Model.
-#### [FRAMERv2](https://github.com/ku-asteam/miu_memory_integrity_utilities/)
-FRAMER: Software-based Capability Model.
+#### [SpaceMIU](https://github.com/ku-asteam/miu_memory_integrity_utilities/tree/master/frame-pass2019)
+A Run-time Type Confusion Checker for C/C++.
 #### [NEW]()
 TBA.
 
