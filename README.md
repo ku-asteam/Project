@@ -78,7 +78,7 @@ PRank Score based on the Matrix Form.
 #### [KU-S&S-EMv1](https://github.com/ku-asteam/KU-S-S-EM/tree/master/1st%20year)
 Status and Spec Export Module for Transport Layer Protocol.
 #### [KU-S&S-EMv2](https://github.com/ku-asteam/KU-S-S-EM/tree/master/2nd%20year)
-Status and Spec Export Module for Transport Layer Protocol.
+Improved Network Protocol Reverse Engineering.
 #### [KU-S&S-IMv1](https://github.com/ku-asteam/KU-S-S-IM/tree/master/1st%20year)
 Status and Spec Inference Module for Transport Layer Protocol.
 #### [KU-S&S-IMv2](https://github.com/ku-asteam/KU-S-S-IM/tree/master/2nd%20year)
