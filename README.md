@@ -43,10 +43,10 @@ Application for logging the throughput, RTT, cwnd in real time
 ### [Software Stabilization Team]
 #### [FRAMER](https://github.com/ku-asteam/miu_memory_integrity_utilities/)
 FRAMER: Software-based Capability Model.
+#### [RMTSLib](https://github.com/ku-asteam/miu_memory_integrity_utilities/tree/master/lib)
+Static/Dynamic Library for Run-time Memory/Type Safety.
 #### [SpaceMIU](https://github.com/ku-asteam/miu_memory_integrity_utilities/tree/master/frame-pass2019)
 A Run-time Type Confusion Checker for C/C++.
-#### [NEW]()
-TBA.
 
 ## Group 2: Highly Flexible Device Profiling and Analysis System for Measuring Web Experiences
 ### [Profiling Team]
