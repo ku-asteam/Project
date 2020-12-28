@@ -74,8 +74,14 @@ A Run-time Type Confusion Checker for C/C++.
 Android Kernel Module for Highly Flexible Profiling System.
 #### [HFPS-Chromium](https://github.com/ku-asteam/hfps-chromium)
 Chromium Module for Highly Flexible Profiling System.
-#### [WQoE-Extension](https://github.com/ku-asteam/WQoE-Extension)
+#### [Web-P2P-Data](https://github.com/ku-asteam/Web-P2P-Data)
+Data Commnunication Library between Web Pages for Device-to-device Event Analysis System.
+#### [Web-P2P-Signaling](https://github.com/ku-asteam/Web-P2P-Signaling)
+Signaling Server for Device-to-device Event Analysis System.
+#### [WQoE-Emulator](https://github.com/ku-asteam/WQoE-Emulator)
 Environment-independent Web QoE Measuring Tool.
+#### [WQoE-Extension](https://github.com/ku-asteam/WQoE-Extension)
+Web Load Emulator for Experimental Large-scale User Experience Evaluation.
 #### [WQoE-RESTful-Server](https://github.com/ku-asteam/WQoE-RESTful-Server)
 RESTful API Server for Web QoE Measuring Tool.
 
