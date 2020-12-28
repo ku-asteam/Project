@@ -66,13 +66,13 @@ RESTful API Server for Web QoE Measuring Tool.
 ## Group 3: Autonomous Networking Analytics for Better Web Experiences
 ### [Analytics Team]
 #### [Compare-Edge](https://github.com/ku-asteam/compare_edge)
-Classifier of duplicate/unique edges in two social networks.
+Classifier of Duplicate/Unique Edges in Two Social Networks.
 #### [Detect-Phiurl](https://github.com/ku-asteam/detect-phiurl/)
 Phishing URL Detection Based on Strings.
 #### [Gen-Mobility](https://github.com/ku-asteam/gen-mobility)
-Cluster-based mobile user mobility data generate model.
+User Mobility Data Generator in Mobile Networks.
 #### [Iden-Edge](https://github.com/ku-asteam/iden-edge)
-Identifier intra/inter edges in community structure.
+Intra-inter Edge Identifier based on Community Detection Results.
 #### [Predict-QoE](https://github.com/ku-asteam/predict-qoe/)
 Deeplearning-based QoE Prediction Model.
 #### [WebScoring](https://github.com/ku-asteam/webscoring/)
