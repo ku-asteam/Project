@@ -12,7 +12,7 @@ For more information on *a*STEAM Project, see the [project website](https://aste
 #### [CCP-Chromium](https://github.com/ku-asteam/ccp-chromium)
 QUIC Datapath Control Module for Chromium.
 #### [CSI-QoE](https://github.com/ku-asteam/csi-qoe)
-A Tool for Measuring the Effect of Wireless Channel State on Web QoE.
+Tool for Measuring the Effect of Wireless Channel State on Web QoE.
 #### [Qmon](https://github.com/ku-asteam/quic-stream-scheduling)
 Switch Queue Monitoring Module for Web Applications.
 #### [QUIC-Stream-Scheduling](https://github.com/ku-asteam/qmon)
@@ -66,7 +66,7 @@ FRAMER: Software-based Capability Model.
 #### [RMTSLib](https://github.com/ku-asteam/miu_memory_integrity_utilities/tree/master/lib)
 Static/Dynamic Library for Run-time Memory/Type Safety.
 #### [SpaceMIU](https://github.com/ku-asteam/miu_memory_integrity_utilities/tree/master/frame-pass2019)
-A Run-time Type Confusion Checker for C/C++.
+Run-time Type Confusion Checker for C/C++.
 
 ## Group 2: Highly Flexible Device Profiling and Analysis System for Measuring Web Experiences
 ### [Profiling Team]
