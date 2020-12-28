@@ -79,9 +79,9 @@ Data Commnunication Library between Web Pages for Device-to-device Event Analysi
 #### [Web-P2P-Signaling](https://github.com/ku-asteam/Web-P2P-Signaling)
 Signaling Server for Device-to-device Event Analysis System.
 #### [WQoE-Emulator](https://github.com/ku-asteam/WQoE-Emulator)
-Environment-independent Web QoE Measuring Tool.
-#### [WQoE-Extension](https://github.com/ku-asteam/WQoE-Extension)
 Web Load Emulator for Experimental Large-scale User Experience Evaluation.
+#### [WQoE-Extension](https://github.com/ku-asteam/WQoE-Extension)
+Environment-independent Web QoE Measuring Tool.
 #### [WQoE-RESTful-Server](https://github.com/ku-asteam/WQoE-RESTful-Server)
 RESTful API Server for Web QoE Measuring Tool.
 
