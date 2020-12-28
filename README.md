@@ -18,7 +18,7 @@ Switch Queue Monitoring Module for Web Applications.
 #### [QUIC-Stream-Scheduling](https://github.com/ku-asteam/qmon)
 QUIC Stream Scheduling Module for quiche.
 #### [WEBap-pp](https://github.com/ku-asteam/webap-pp)
-Packet processing module in wired-cum-wireless environments.
+Packet Processing Module for Web Applications in Wired-cum-wireless Environments.
 #### [WebPrefetcher](https://github.com/ku-asteam/WebPrefetcher/)
 Predictive Prefetching Engine for Web Applications.
 #### [WebProfiler](https://github.com/ku-asteam/WebProfiler/)
