@@ -14,9 +14,9 @@ QUIC Datapath Control Module for Chromium.
 #### [CSI-QoE](https://github.com/ku-asteam/csi-qoe/)
 A Tool for Measuring the Effect of Wireless Channel State on Web QoE.
 #### [Qmon](https://github.com/ku-asteam/quic-stream-scheduling)
-Switch Queue Monitoring Module for Web Applications
+Switch Queue Monitoring Module for Web Applications.
 #### [QUIC-Stream-Scheduling](https://github.com/ku-asteam/qmon)
-QUIC Stream Scheduling Module for quiche
+QUIC Stream Scheduling Module for quiche.
 #### [WEBap-pp](https://github.com/ku-asteam/webap-pp)
 Packet processing module in wired-cum-wireless environments
 #### [WebPrefetcher](https://github.com/ku-asteam/WebPrefetcher/)
@@ -38,11 +38,11 @@ Prediction Model for Web Prefetching.
 #### [BBR-AC](https://github.com/ku-asteam/bbr-ac/)
 BBR with Actual Congestion.
 #### [DA-BBR](https://github.com/ku-asteam/da-bbr)
-Delay-Aware BBR Congestion Control Algorithm
+Delay-Aware BBR Congestion Control Algorithm.
 #### [MDM-LIA](https://github.com/ku-asteam/mdm-lia/)
 Modified Decrease Mechanism of LIA algorithm.
 #### [TCPGuiTester](https://github.com/ku-asteam/TCPGuiTester)
-Application for logging the throughput, RTT, cwnd in real time
+Application for logging the throughput, RTT, cwnd in real time.
 
 ### [Software Stabilization Team]
 #### [FRAMER](https://github.com/ku-asteam/miu_memory_integrity_utilities/)
@@ -59,9 +59,9 @@ Android Kernel Module for Highly Flexible Profiling System.
 #### [HFPS-Chromium](https://github.com/ku-asteam/hfps-chromium/)
 Chromium Module for Highly Flexible Profiling System.
 #### [WQoE-Extension](https://github.com/ku-asteam/WQoE-Extension)
-An environment-independent web Quality-of-Experience measuring tool
+An environment-independent web Quality-of-Experience measuring tool.
 #### [WQoE-RESTful-Server](https://github.com/ku-asteam/WQoE-RESTful-Server)
-A RESTful API server for web Quality-of-Experience measuring tools
+A RESTful API server for web Quality-of-Experience measuring tools.
 
 ## Group 3: Autonomous Networking Analytics for Better Web Experiences
 ### [Analytics Team]
