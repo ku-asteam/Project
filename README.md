@@ -87,6 +87,8 @@ RESTful API Server for Web QoE Measuring Tool.
 
 ## Group 3: Autonomous Networking Analytics for Better Web Experiences
 ### [Analytics Team]
+#### [CF-Updater](https://github.com/ku-asteam/cf-updater)
+Collaborative Filtering (CF) Updater Module for Analysis in Mobile Networks.
 #### [Compare-Edge](https://github.com/ku-asteam/compare_edge)
 Classifier of Duplicate/Unique Edges in Two Social Networks.
 #### [Detect-Phiurl](https://github.com/ku-asteam/detect-phiurl)
@@ -95,8 +97,12 @@ Phishing URL Detection Based on Strings.
 User Mobility Data Generator in Mobile Networks.
 #### [Iden-Edge](https://github.com/ku-asteam/iden-edge)
 Intra-inter Edge Identifier based on Community Detection Results.
+#### [Location-Aware-Cache](https://github.com/ku-asteam/location-aware-cache)
+Location-aware Caching Model via Predicting Heterogeneous File Preferences in Mobile Networks.
 #### [Predict-QoE](https://github.com/ku-asteam/predict-qoe)
 Deeplearning-based QoE Prediction Model.
+#### [UC-Filter](https://github.com/ku-asteam/uc-filter)
+User-content Filter Module via Statistical Analysis of User-content Rating Matrix.
 #### [WebScoring](https://github.com/ku-asteam/webscoring)
 PRank Score based on the Matrix Form.
 
