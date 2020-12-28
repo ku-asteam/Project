@@ -42,7 +42,7 @@ Delay-Aware BBR Congestion Control Algorithm.
 #### [MDM-LIA](https://github.com/ku-asteam/mdm-lia/)
 Modified Decrease Mechanism of LIA algorithm.
 #### [TCPGuiTester](https://github.com/ku-asteam/TCPGuiTester)
-Real-Time TCP Logging and Graph Generation Program.
+Real-time TCP Logging and Graph Generation Program.
 
 ### [Software Stabilization Team]
 #### [FRAMER](https://github.com/ku-asteam/miu_memory_integrity_utilities/)
