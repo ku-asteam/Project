@@ -59,9 +59,9 @@ Android Kernel Module for Highly Flexible Profiling System.
 #### [HFPS-Chromium](https://github.com/ku-asteam/hfps-chromium/)
 Chromium Module for Highly Flexible Profiling System.
 #### [WQoE-Extension](https://github.com/ku-asteam/WQoE-Extension)
-An environment-independent web Quality-of-Experience measuring tool.
+Environment-independent Web QoE Measuring Tool.
 #### [WQoE-RESTful-Server](https://github.com/ku-asteam/WQoE-RESTful-Server)
-A RESTful API server for web Quality-of-Experience measuring tools.
+RESTful API Server for Web QoE Measuring Tool.
 
 ## Group 3: Autonomous Networking Analytics for Better Web Experiences
 ### [Analytics Team]
