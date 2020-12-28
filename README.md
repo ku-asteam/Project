@@ -28,9 +28,9 @@ Navigation Prediction Model for General Web Applications.
 #### [WP-Data-Preprocessor](https://github.com/ku-asteam/web-prediction/tree/master/preprocessor)
 Data Preprocessor for Web Prefetching.
 #### [WP-Dynalloc-Module](https://github.com/ku-asteam/web-prediction/tree/master/dynalloc-module)
-A dynamic allocation module including a real-time traffic burst detector and a dynamic allocation mechanism.
+Dynamic Allocation Module for Improving Utilization of Proxy Server in Web Prefetching.
 #### [WP-Ir-LSTM](https://github.com/ku-asteam/web-prediction/tree/master/Ir-LSTM)
-An intentionality-related long short-term memory (Ir-LSTM) model as a prediction method.
+Intentionality-related Deep Learning Method in Web Prefetching.
 #### [WP-Prediction-Model](https://github.com/ku-asteam/web-prediction/tree/master/encoder)
 Prediction Model for Web Prefetching.
 
