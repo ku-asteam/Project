@@ -53,7 +53,9 @@ Real-time TCP Logging and Graph Generation Program.
 Traffic Monitoring Applcation for RYU SDN Controller.
 
 ### [Software Stabilization Team]
-#### [FRAMER](https://github.com/ku-asteam/miu_memory_integrity_utilities/)
+#### [Code-Obfuscation](https://github.com/ku-asteam/miu_memory_integrity_utilities/tree/master/obfuscation)
+Code Obfuscation Program Using Opaque Predicates.
+#### [FRAMER](https://github.com/ku-asteam/miu_memory_integrity_utilities)
 FRAMER: Software-based Capability Model.
 #### [RMTSLib](https://github.com/ku-asteam/miu_memory_integrity_utilities/tree/master/lib)
 Static/Dynamic Library for Run-time Memory/Type Safety.
