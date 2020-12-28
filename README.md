@@ -88,4 +88,4 @@ Status and Spec Inference Module for Transport Layer Protocol.
 #### [KU-S&S-IMv2](https://github.com/ku-asteam/KU-S-S-IM/tree/master/2nd%20year)
 Improved Network Protocol State Inference.
 #### [Protocol-Inference-in-SDN-Environment](https://github.com/ku-asteam/Protocol-Inference-in-SDN-Environment)
-Machine Learning based Protocol Inference Module in SDN Environment.
+Machine Learning Based Protocol Inference Module in SDN Environment.
