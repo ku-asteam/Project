@@ -65,6 +65,8 @@ Code Obfuscation Program Using Opaque Predicates.
 FRAMER: Software-based Capability Model.
 #### [RMTSLib](https://github.com/ku-asteam/miu_memory_integrity_utilities/tree/master/lib)
 Static/Dynamic Library for Run-time Memory/Type Safety.
+#### [SDN-Equivalence-Checker](https://github.com/ku-asteam/sdn_equivalence_checker)
+Equivalence Checker for SDNs.
 #### [SpaceMIU](https://github.com/ku-asteam/miu_memory_integrity_utilities/tree/master/frame-pass2019)
 Run-time Type Confusion Checker for C/C++.
 
