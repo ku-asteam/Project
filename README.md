@@ -111,9 +111,15 @@ PRank Score based on the Matrix Form.
 Status and Spec Export Module for Transport Layer Protocol.
 #### [KU-S&S-EMv2](https://github.com/ku-asteam/KU-S-S-EM/tree/master/2nd%20year)
 Improved Network Protocol Reverse Engineering.
+#### [KU-S&S-EMv3](https://github.com/ku-asteam/KU-S-S-EM/tree/master/3rd%20year)
+Deep Learning Based Traffic Type Recognition Module.
 #### [KU-S&S-IMv1](https://github.com/ku-asteam/KU-S-S-IM/tree/master/1st%20year)
 Status and Spec Inference Module for Transport Layer Protocol.
 #### [KU-S&S-IMv2](https://github.com/ku-asteam/KU-S-S-IM/tree/master/2nd%20year)
 Improved Network Protocol State Inference.
-#### [Protocol-Inference-in-SDN-Environment](https://github.com/ku-asteam/Protocol-Inference-in-SDN-Environment)
+#### [KU-S&S-IMv3](https://github.com/ku-asteam/KU-S-S-IM/tree/master/3rd%20year)
+Fuzzy Inference Module for Packet Service Type Classification.
+#### [Protocol-Inference-in-SDN-Environment-v1](https://github.com/ku-asteam/Protocol-Inference-in-SDN-Environment)
 Machine Learning Based Protocol Inference Module in SDN Environment.
+#### [Protocol-Inference-in-SDN-Environment-v2](https://github.com/ku-asteam/Protocol-Inference-in-SDN-Environment/tree/master/at_filter)
+Anomaly Traffic Filtering Module in SDNs.
